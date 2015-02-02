@@ -1,5 +1,5 @@
 
-                          Sears.com Results Text Scraper
+                                                    Sears.com Results Text Scraper
 
   What is it?
   -----------
